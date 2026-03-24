@@ -2,8 +2,8 @@ let hasUserInteracted = false;
 
 function initMedia() {
   console.log("initMedia called");
-  const backgroundMusic = document.getElementById('background-music');
-  backgroundMusic.src = `assets/background_music01{Math.floor(Math.random() * 3)}.mp3`;
+  const backgroundMusic = document.getElementById('background-music 1');
+  backgroundMusic.src = `assets/background_music0{Math.floor(Math.random() * 3)}.mp3`;
   if (!backgroundMusic) { 
     console.error("Media elements not found");
     return;
