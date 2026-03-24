@@ -160,9 +160,9 @@ document.addEventListener('DOMContentLoaded', () => {
     "Owner Of Water Tag",
     "owner of  Revoke Modding",
 
-    "403 forbidden",
-    "object reference not set to an instance of an object",
-    "winforms is so bad it's good",
+    "ttpjo is a fat burger",
+    "mez is tuff",
+    "Your NOT TUFF",
 
     "i support mostly everyone",
     "never underestimate yourself",
